@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PercobaanApi1", "PercobaanApi1.csproj", "{86A1F343-2EF2-4099-9E2D-1A4538E4455A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A1F343-2EF2-4099-9E2D-1A4538E4455A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A1F343-2EF2-4099-9E2D-1A4538E4455A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A1F343-2EF2-4099-9E2D-1A4538E4455A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A1F343-2EF2-4099-9E2D-1A4538E4455A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0A439F-4B2F-466F-8B68-022A9059FA1A}
+	EndGlobalSection
+EndGlobal
